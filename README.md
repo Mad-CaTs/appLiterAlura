@@ -1,3 +1,39 @@
+<div align="center">
+  <img src="/badge literalura.png" alt="Logo" height="200" width="200">
+  <h2>
+    📚 Biblioteca Literaria - LiterAlura
+  </h2>
+</div>
+
+<div align="center">
+    <img alt="Static Badge" src="https://img.shields.io/badge/version-1.0-blue">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Spring Boot-3.4.1-green">
+    <img alt="Static Badge" src="https://img.shields.io/badge/Java-17-orange">
+    <img alt="Static Badge" src="https://img.shields.io/badge/License-MIT-lightgreen">
+</div>
+<br>
+
+<div align="center">
+<h2>
+🔧 Tecnologías Usadas
+</h2>
+</div>
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="Spring Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git Logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" />
+  <img width="12" />        
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Logo" />
+</div>
+
 # Proyecto Biblioteca
 
 Proyecto de biblioteca de libros desarrollado en Java usando Spring Boot y Gradle que le permite almacenar y administrar información de libros a través de una API y buscar en una base de datos PostgreSQL.
