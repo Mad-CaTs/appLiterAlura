@@ -89,4 +89,7 @@ Contributions are welcome! If you would like to improve this project, follow the
 
 If you have any questions or suggestions, feel free to open an issue in the repository or contact us at markusperezch1@gmail.com.
 
+## License
+This project is licensed under the MIT License. See the `LICENSE` file for more details.
+
 ---
