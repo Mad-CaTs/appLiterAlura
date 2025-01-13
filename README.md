@@ -1,7 +1,7 @@
 <div align="center">
   <img src="/badge literalura.png" alt="Logo" height="200" width="200">
   <h2>
-    📚 Biblioteca Literaria - LiterAlura
+    📚 Literary Library - LiterAlura
   </h2>
 </div>
 
@@ -15,7 +15,7 @@
 
 <div align="center">
 <h2>
-🔧 Tecnologías Usadas
+🔧 Technologies Used
 </h2>
 </div>
 
@@ -34,57 +34,59 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub Logo" />
 </div>
 
-# Proyecto Biblioteca
+# Library Project
 
-Proyecto de biblioteca de libros desarrollado en Java usando Spring Boot y Gradle que le permite almacenar y administrar información de libros a través de una API y buscar en una base de datos PostgreSQL.
+Library project developed in Java using Spring Boot and Gradle that allows you to store and manage book information via an API and search a PostgreSQL database.
 
-## Uso de la Aplicacion
+## Application Usage
 
-Al iniciar la aplicación, verás un menú en la consola con las siguientes opciones:
+When you start the application, you will see a console menu with the following options:
 
-![Texto alternativo](Screenshot_1.jpg)
+![Alternative text](Screenshot_1.jpg)
 
-## Documentacion
+## Documentation
 
 - Spring Boot Documentation: https://docs.spring.io/spring-boot/index.html
 - JPA Query Methods: https://docs.spring.io/spring-data/jpa/reference/jpa/query-methods.html
-- API Gutendex: https://gutendex.com
+- Gutendex API: https://gutendex.com
 - Postman: https://www.postman.com/downloads/
 
-## Cómo Contribuir
+## How to Contribute
 
-¡Contribuciones son bienvenidas! Si deseas mejorar este proyecto, sigue estos pasos para contribuir a través de GitHub:
+Contributions are welcome! If you would like to improve this project, follow these steps to contribute through GitHub:
 
-1. **Fork el repositorio**:
-   Haz clic en el botón "Fork" en la parte superior de la página del repositorio.
+1. **Fork the repository**:
+   Click on the "Fork" button at the top of the repository page.
 
-2. **Clona tu fork localmente**:
+2. **Clone your fork locally**:
 
    ```bash
    git clone https://github.com/Mad-CaTs/appLiterAlura.git
    ```
-3. **Crea una nueva rama para tu cambio**
+3. **Create a new branch for your changes**
    ```bash
-   git checkout -b feature/nueva-funcionalidad
+   git checkout -b feature/new-feature
    ```
-4. **Realiza tus cambios y haz commits descriptivos:**
+4. **Make your changes and commit them with descriptive messages**
+   ```bash   
+   git commit -m "Detailed description of the changes you made"
+   ```
+5. **Push your branch to the remote repository**
    ```bash
-   git commit -m "Descripción detallada de lo que has cambiado"
+   git push origin feature/new-feature
    ```
-5. **Sube tu rama al repositorio remoto:**
-   ```bash
-   git push origin feature/nueva-funcionalidad
-   ```
-6. **Abre un Pull Request:**
-   - Ve a la pestaña "Pull requests" en el repositorio original.
-   - Haz clic en "New pull request" y selecciona la rama que has subido. 
-   - Proporciona una descripción clara de los cambios que has hecho.
-7. **Espera la revisión:** Tu Pull Request será revisado y, si todo está en orden, será fusionado con la rama principal del proyecto.
+6. **Open a Pull Request:**
+   - Go to the "Pull requests" tab in the original repository.
+   - Click on "New pull request" and select the branch you uploaded.
+   - Provide a clear description of the changes you made.
+
+7. **Wait for review**
+   - Your Pull Request will be reviewed, and if everything is in order, it will be merged into the main branch of the project.
 
 
 
-### Contacto
+### Contact
 
-Si tienes alguna pregunta o sugerencia, no dudes en abrir un issue en el repositorio o contactarnos a través de markusperezch1@gmail.com.
+If you have any questions or suggestions, feel free to open an issue in the repository or contact us at markusperezch1@gmail.com.
 
 ---
